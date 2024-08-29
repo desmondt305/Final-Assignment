@@ -1,72 +1,72 @@
-# Getting Started with Create React App
+Food-Crud-App is a simple and intuitive web application that allows users to perform CRUD (Create, Read, Update, Delete) operations on a list of foods. This app is designed to help users manage their food inventory or keep track of their favorite foods with ease.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Table of Contents
+About the Project
+Built With
+Getting Started
+Prerequisites
+Installation
+Usage
+Contributing
+Contact
+About the Project
+Food-Crud-App enables users to effortlessly add new foods to their list, view existing foods, update food information, and delete foods that are no longer needed. The primary focus of the project is to demonstrate CRUD operations in a React environment.
 
-## Available Scripts
+Built With
+This project is built using the following technologies:
 
-In the project directory, you can run:
+HTML: For structuring the web pages.
+Bootstrap: For styling and responsive design.
+JavaScript: For adding interactivity.
+Axios: For handling HTTP requests.
+React: For building the user interface.
+React-Router-Dom: For managing navigation between different components.
+Getting Started
+Prerequisites
+Before you begin, ensure you have the following installed on your system:
 
-### `npm start`
+Node.js: Download and install Node.js (which includes npm).
+Installation
+To set up the project locally, follow these steps:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Clone the repository:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+sh
+Copy code
+git clone https://github.com/desmondt305/Food-Crud-App.git
+Navigate to the project directory:
 
-### `npm test`
+sh
+Copy code
+cd Food-Crud-App
+Install the necessary dependencies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+sh
+Copy code
+npm install
+Start the development server:
 
-### `npm run build`
+sh
+Copy code
+npm start
+Your app should now be running on http://localhost:3000.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Usage
+Once the app is running, you can:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Add a new food: Fill in the food details and click the "Add" button.
+View all foods: The list of all foods will be displayed on the main page.
+Update a food: Click on the "Edit" button next to a food item to update its details.
+Delete a food: Click on the "Delete" button next to a food item to remove it from the list.
+Contributing
+Contributions are welcome! If you have suggestions for new features or improvements, feel free to submit an issue or a pull request.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Fork the repository
+Create your feature branch (git checkout -b feature/AmazingFeature)
+Commit your changes (git commit -m 'Add some AmazingFeature')
+Push to the branch (git push origin feature/AmazingFeature)
+Open a pull request
+Contact
+Desmond Turner - LinkedIn - Desmondt918@gmail.com
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Final-Assignment
-# Final-Assignment
+Project URL: https://github.com/desmondt305/Food-Crud-App.git
