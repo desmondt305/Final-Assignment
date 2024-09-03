@@ -81,7 +81,7 @@ Contributions are welcome! If you have suggestions for new features or improveme
 
 ## **Contact**
 
-Desmond Turner - [LinkedIn]www.linkedin.com/in/desmond-turner-dez
+Desmond Turner - [www.linkedin.com/in/desmond-turner-dez]
 
 Project URL: [https://github.com/desmondt305/Food-Crud-App.git](https://github.com/desmondt305/Food-Crud-App.git)
 ```
